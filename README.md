@@ -1,4 +1,4 @@
-## Olá! Pode me chamar de Victoria Lazzarotto!
+## Olá! Seja bem-vind@!
 <div align="center">
   <a href="https://github.com/viclazzarotto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viclazzarotto&layout=compact&langs_count=7&theme=dracula"/>
